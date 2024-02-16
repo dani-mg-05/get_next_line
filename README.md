@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  Llamando repetivamente a la función se puede leer el contenido de un archivo, línea por línea, hasta el final
+  Llamando repetidamente a la función se puede leer el contenido de un archivo, línea por línea, hasta el final
 </p>
